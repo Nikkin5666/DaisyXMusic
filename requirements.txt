@@ -16,4 +16,4 @@ python-arq
 future
 psutil
 wget
-node
+node==15.0.0
